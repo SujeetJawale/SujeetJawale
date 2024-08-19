@@ -8,7 +8,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-SujeetJawale&color=blueviolet)
 
 
-#### 🌱 I’m currently pursuing my Master of Science in Analytics at the University of Southern California
+#### 🌱 I’m currently pursuing my Master of Science from University of Southern California
 #### Being Curious about how Everything works on computers with just a click, I entered the world of computer science and was really amazed by seeing that programming a computer was fun and very intuitive.
 #### - 🔭 I’m currently working on problem-solving skills
 #### - 🌱 I’m currently learning competitive coding
@@ -19,68 +19,123 @@
 <!--![Sujeet's github stats](https://github-readme-stats.vercel.app/api?username=SujeetJawale&show_icons=true&theme=cobalt&count_private=true)-->
 <!--![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetJawale&theme=cobalt&langs_count=8&layout=compact)-->
 
-<a href="https://github.com/SujeetJawale">
+
+<!--<a href="https://github.com/SujeetJawale">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SujeetJawale&theme=cobalt&langs_count=8&layout=compact" />
 </a>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SujeetJawale">
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="https://github.com/SujeetJawale">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=SujeetJawale&show_icons=true&theme=cobalt&count_private=true" />
-</a>
-
+</a> -->
 
 
 ### My Skill-Set
+#### Backend:
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/c%20-%23F05033.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/rest%20api-%2300ADD8.svg?&style=for-the-badge&logo=rest-api&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
+  <img src="https://img.shields.io/badge/microservices-%238DD6F9.svg?&style=for-the-badge&logo=microservices&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring%20data%20jpa-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/hibernate-%2399277A.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring%20mvc-%236DB33F.svg?&style=for-the-badge&logo=spring-mvc&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/spring%20security-%236DB33F.svg?&style=for-the-badge&logo=spring-security&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spring%20batch-%236DB33F.svg?&style=for-the-badge&logo=spring-batch&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/junit-%25A1.svg?&style=for-the-badge&logo=junit&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/mockito-%2300ADD8.svg?&style=for-the-badge&logo=mockito&logoColor=white"/>
+</a>
+
+### 
+#### Database:
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/mysql-%234479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/postgresql-%23336791.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/mongodb-%2347A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
+</a>
+
+### 
+#### Frontend:
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/reactjs-%2361DAFB.svg?&style=for-the-badge&logo=react&logoColor=black"/>
+</a>
+
+### 
+#### Tools and others:
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/agile-%230A0F0D.svg?&style=for-the-badge&logo=agile&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/postman-%23FF6C37.svg?&style=for-the-badge&logo=postman&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/swagger-%2385EA2D.svg?&style=for-the-badge&logo=swagger&logoColor=black"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/apache%20kafka-%23231F20.svg?&style=for-the-badge&logo=apache-kafka&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/redis-%23DC382D.svg?&style=for-the-badge&logo=redis&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/log4j-%23231F20.svg?&style=for-the-badge&logo=log4j&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/maven-%23C71A36.svg?&style=for-the-badge&logo=apache-maven&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/cicd-%232C3E50.svg?&style=for-the-badge&logo=cicd&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/docker-%232496ED.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/kubernetes-%23326CE5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/git-%23F05032.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/jenkins-%23D24939.svg?&style=for-the-badge&logo=jenkins&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
 <img src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-<a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
-</a>
-<a href="https://github.com/prajwalpatankar">
-<img src ="https://img.shields.io/badge/sqlite-%3121011.svg?&style=for-the-badge&logo=sqlite&logoColor=white"/>
-</a>
-<a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white" />
-</a>
-<a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/Keras%20-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white"/>
-</a>
-<a href="https://github.com/prajwalpatankar">
-<img src="https://img.shields.io/badge/TensorFlow%20-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" />
-</a>
-<a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/PyTorch%20-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" />
-</a>
-<a href="https://github.com/SujeetJawale">
-<img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" />
-</a>
 
 
-#### 📫 Let's connect on [LinkedIn](https://www.linkedin.com/in/sujeet-jawale-aa12b1198/)
+#### 📫 Visit my Portfolio [SujeetJawale](https://sujeetjawale.github.io/SJ_Portfolio/#/) 
 #### Reach out to me [here!](mailto:sjawale@usc.edu?subject=[GitHub]%20Source%20Han%20Sans) My Inbox is always open to any opportunities, advices or suggestions
