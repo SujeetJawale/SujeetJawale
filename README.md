@@ -40,13 +40,13 @@
   <img src="https://img.shields.io/badge/microservices-%238DD6F9.svg?&style=for-the-badge&logo=microservices&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
-  <img src="https://img.shields.io/badge/spring%20data%20jpa-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
-</a>
-<a href="https://github.com/SujeetJawale">
   <img src="https://img.shields.io/badge/hibernate-%2399277A.svg?&style=for-the-badge&logo=hibernate&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
   <img src="https://img.shields.io/badge/springboot-%236DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white"/>
+</a>
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/spring%20data%20jpa-%236DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
   <img src="https://img.shields.io/badge/spring%20mvc-%236DB33F.svg?&style=for-the-badge&logo=spring-mvc&logoColor=white"/>
