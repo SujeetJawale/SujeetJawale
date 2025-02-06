@@ -97,6 +97,18 @@
 ### 
 #### Tools and others:
 <a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+</a>
+
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/Tableau-Data%20Analytics-%23E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/SQL-Database%20Management-%2300758F?style=for-the-badge&logo=postgresql&logoColor=white"/>
+</a>
+
+<a href="https://github.com/SujeetJawale">
   <img src="https://img.shields.io/badge/agile-%230A0F0D.svg?&style=for-the-badge&logo=agile&logoColor=white"/>
 </a>
 <a href="https://github.com/SujeetJawale">
