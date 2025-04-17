@@ -10,7 +10,7 @@
 
 #### 🌱 I’m currently pursuing my Master of Science in Analytics (Computer Science) from University of Southern California.
 #### Being Curious about how Everything works on computers with just a click, I entered the world of computer science and was really amazed by seeing that programming a computer was fun and very intuitive.
-#### - 🔭 I’m currently working on problem-solving skills
+#### - 🔭 I’m currently exploring Devops technologies
 #### - 🌱 I’m currently learning competitive coding
 
 #### 🌐 Visit my [Linkedin Profile](https://www.linkedin.com/in/sujeet-jawale-aa12b1198/)
