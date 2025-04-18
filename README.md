@@ -94,7 +94,72 @@
 </a>
 
 ### 
+#### Cloud:
+
+<!-- EC2 -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20EC2-Compute-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- S3 -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20S3-Storage-%2393D500?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- VPC -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20VPC-Networking-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- Load Balancer -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20ELB-Load%20Balancer-%23007396?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- CloudWatch -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20CloudWatch-Monitoring-%23FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- SNS -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20SNS-Notifications-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- SQS -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20SQS-Queueing-%2366CDAA?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- Lambda -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20Lambda-Serverless-%23FF9900?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- ASG -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20ASG-Auto%20Scaling-%23232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+<!-- EBS -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/AWS%20EBS-Block%20Storage-%23007396?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+</a>
+
+
+### 
 #### Tools and others:
+<!-- Terraform -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/Terraform-%235835CC?style=for-the-badge&logo=terraform&logoColor=white"/>
+</a>
+
+<!-- Ansible -->
+<a href="https://github.com/SujeetJawale">
+  <img src="https://img.shields.io/badge/Ansible-%23EE0000?style=for-the-badge&logo=ansible&logoColor=white"/>
+</a>
+
+
 <a href="https://github.com/SujeetJawale">
   <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-%23F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 </a>
